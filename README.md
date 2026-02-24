@@ -2,7 +2,8 @@
 
 <h1>Hello Coders 👋</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<!-- Neue Illustration: Frau mit schwarzen Haaren am Schreibtisch -->
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/a_digital_illustration_in_cartoon_style_shows_a_yo.png" alt="Workspace" width="40%"/><br> 
 
 <h1>Hi 👋 I'm najma-aa</h1>
 <h3>💻 Informatik-Student 🚀</h3>
